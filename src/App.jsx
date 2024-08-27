@@ -7,6 +7,7 @@ function App() {
       <h1>Hello World</h1>
       <button>like</button>
       <h1>this is second time connect</h1>
+      <App/>
     </>
   )
 }
@@ -16,6 +17,7 @@ function more() {
       <h1>Hello World</h1>
       <button>like</button>
       <h1>this is second time connect</h1>
+      
     </>
   )
 }
